@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "asdthis is body",
+      "publishedAt": "10-10-2021"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "this is body",
+      "publishedAt": "11-10-2021"
+    },
+    {
+      "title": "Post 4 ",
+      "body": "The post 4 body",
+      "publishedAt": "2021-03-17",
+      "id": 3
+    },
+    {
+      "title": "post 5 ",
+      "body": "Hello",
+      "publishedAt": "2021-03-31",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "loshan",
+      "email": "loshan@loshan.com"
+    },
+    {
+      "name": "Peter",
+      "email": "peter@peter.com",
+      "id": 2
+    }
+  ]
+}
